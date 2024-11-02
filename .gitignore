@@ -7,9 +7,11 @@ sticker/version.py
 *.pyc
 __pycache__
 *.egg-info
+build/
 
 node_modules
 web/lib/import-map.json
+web/packs/*.json
 
 *.session
 /*.json
