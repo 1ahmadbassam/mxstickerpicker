@@ -1,5 +1,6 @@
 {
   "packs": [
-    "SagiriIzumistickerspack.json"
-  ]
+    "SagiriIzumistickerspack.json",
+    "bigpackbnn.json"
+  ],
 }
