@@ -1,6 +1,9 @@
 {
   "packs": [
     "SagiriIzumistickerspack.json",
-    "bigpackbnn.json"
-  ]
+    "bigpackbnn.json",
+    "Borktmjhodkm.json",
+    "Fona_Lola.json"
+  ],
+  "homeserver_url": "https://matrix-client.matrix.org/"
 }
